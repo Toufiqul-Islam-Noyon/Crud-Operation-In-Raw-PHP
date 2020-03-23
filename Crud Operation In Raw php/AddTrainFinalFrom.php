@@ -12,6 +12,8 @@
     	<h2>ADD NEW TRAIN INFORMATION</h2>
     </div>
   	
+	<!-- This is form section -->
+	
   <form method="post" action="AddTrainInsert.php">
   	 <input type="hidden" name="id" value="<?php echo $id; ?>">
 
